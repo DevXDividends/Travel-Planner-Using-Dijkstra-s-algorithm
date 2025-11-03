@@ -1,0 +1,379 @@
+{
+  "Mumbai": {
+    "lat": 19.0760,
+    "lon": 72.8777,
+    "Pune": {
+      "distance": 150,
+      "price": {
+        "bus": 300,
+        "train": 200,
+        "plane": 1500
+      },
+      "duration": {
+        "bus": 180,
+        "train": 120,
+        "plane": 60
+      }
+    },
+    "Nashik": {
+      "distance": 165,
+      "price": {
+        "bus": 350,
+        "train": 220,
+        "plane": 1600
+      },
+      "duration": {
+        "bus": 200,
+        "train": 140,
+        "plane": 60
+      }
+    },
+    "Aurangabad": {
+      "distance": 335,
+      "price": {
+        "bus": 500,
+        "train": 400,
+        "plane": 2500
+      },
+      "duration": {
+        "bus": 360,
+        "train": 240,
+        "plane": 90
+      }
+    }
+  },
+  "Pune": {
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "Mumbai": {
+      "distance": 150,
+      "price": {
+        "bus": 300,
+        "train": 200,
+        "plane": 1500
+      },
+      "duration": {
+        "bus": 180,
+        "train": 120,
+        "plane": 60
+      }
+    },
+    "Kolhapur": {
+      "distance": 230,
+      "price": {
+        "bus": 400,
+        "train": 300,
+        "plane": 2000
+      },
+      "duration": {
+        "bus": 300,
+        "train": 180,
+        "plane": 80
+      }
+    }
+  },
+  "Nashik": {
+    "lat": 20.0110,
+    "lon": 73.7904,
+    "Mumbai": {
+      "distance": 165,
+      "price": {
+        "bus": 350,
+        "train": 220,
+        "plane": 1600
+      },
+      "duration": {
+        "bus": 200,
+        "train": 140,
+        "plane": 60
+      }
+    },
+    "Aurangabad": {
+      "distance": 200,
+      "price": {
+        "bus": 400,
+        "train": 350,
+        "plane": 1800
+      },
+      "duration": {
+        "bus": 240,
+        "train": 150,
+        "plane": 70
+      }
+    }
+  },
+  "Aurangabad": {
+    "lat": 19.8762,
+    "lon": 75.3433,
+    "Mumbai": {
+      "distance": 335,
+      "price": {
+        "bus": 500,
+        "train": 400,
+        "plane": 2500
+      },
+      "duration": {
+        "bus": 360,
+        "train": 240,
+        "plane": 90
+      }
+    },
+    "Nashik": {
+      "distance": 200,
+      "price": {
+        "bus": 400,
+        "train": 350,
+        "plane": 1800
+      },
+      "duration": {
+        "bus": 240,
+        "train": 150,
+        "plane": 70
+      }
+    },
+    "Jalna": {
+      "distance": 90,
+      "price": {
+        "bus": 150,
+        "train": 120,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 120,
+        "train": 80,
+        "plane": 40
+      }
+    }
+  },
+  "Kolhapur": {
+    "lat": 16.7050,
+    "lon": 74.2433,
+    "Pune": {
+      "distance": 230,
+      "price": {
+        "bus": 400,
+        "train": 300,
+        "plane": 2000
+      },
+      "duration": {
+        "bus": 300,
+        "train": 180,
+        "plane": 80
+      }
+    },
+    "Sangli": {
+      "distance": 50,
+      "price": {
+        "bus": 100,
+        "train": 80,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 60,
+        "train": 40,
+        "plane": 30
+      }
+    }
+  },
+  "Sangli": {
+    "lat": 16.8689,
+    "lon": 74.5647,
+    "Kolhapur": {
+      "distance": 50,
+      "price": {
+        "bus": 100,
+        "train": 80,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 60,
+        "train": 40,
+        "plane": 30
+      }
+    },
+    "Satara": {
+      "distance": 150,
+      "price": {
+        "bus": 300,
+        "train": 200,
+        "plane": 1500
+      },
+      "duration": {
+        "bus": 180,
+        "train": 120,
+        "plane": 60
+      }
+    }
+  },
+  "Satara": {
+    "lat": 17.6800,
+    "lon": 73.9900,
+    "Sangli": {
+      "distance": 150,
+      "price": {
+        "bus": 300,
+        "train": 200,
+        "plane": 1500
+      },
+      "duration": {
+        "bus": 180,
+        "train": 120,
+        "plane": 60
+      }
+    },
+    "Pune": {
+      "distance": 110,
+      "price": {
+        "bus": 200,
+        "train": 150,
+        "plane": 1000
+      },
+      "duration": {
+        "bus": 120,
+        "train": 90,
+        "plane": 50
+      }
+    }
+  },
+  "Jalna": {
+    "lat": 19.8416,
+    "lon": 75.8860,
+    "Aurangabad": {
+      "distance": 90,
+      "price": {
+        "bus": 150,
+        "train": 120,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 120,
+        "train": 80,
+        "plane": 40
+      }
+    },
+    "Parbhani": {
+      "distance": 100,
+      "price": {
+        "bus": 200,
+        "train": 150,
+        "plane": 600
+      },
+      "duration": {
+        "bus": 120,
+        "train": 90,
+        "plane": 50
+      }
+    }
+  },
+  "Parbhani": {
+    "lat": 19.2700,
+    "lon": 76.7700,
+    "Jalna": {
+      "distance": 100,
+      "price": {
+        "bus": 200,
+        "train": 150,
+        "plane": 600
+      },
+      "duration": {
+        "bus": 120,
+        "train": 90,
+        "plane": 50
+      }
+    },
+    "Nanded": {
+      "distance": 70,
+      "price": {
+        "bus": 120,
+        "train": 100,
+        "plane": 400
+      },
+      "duration": {
+        "bus": 90,
+        "train": 60,
+        "plane": 30
+      }
+    }
+  },
+  "Nanded": {
+    "lat": 19.1510,
+    "lon": 77.3210,
+    "Parbhani": {
+      "distance": 70,
+      "price": {
+        "bus": 120,
+        "train": 100,
+        "plane": 400
+      },
+      "duration": {
+        "bus": 90,
+        "train": 60,
+        "plane": 30
+      }
+    }
+  },
+  "Nagpur": {
+    "lat": 21.1458,
+    "lon": 79.0882,
+    "Wardha": {
+      "distance": 70,
+      "price": {
+        "bus": 100,
+        "train": 80,
+        "plane": 400
+      },
+      "duration": {
+        "bus": 90,
+        "train": 60,
+        "plane": 30
+      }
+    }
+  },
+  "Wardha": {
+    "lat": 20.7450,
+    "lon": 78.6022,
+    "Nagpur": {
+      "distance": 70,
+      "price": {
+        "bus": 100,
+        "train": 80,
+        "plane": 400
+      },
+      "duration": {
+        "bus": 90,
+        "train": 60,
+        "plane": 30
+      }
+    },
+    "Amravati": {
+      "distance": 120,
+      "price": {
+        "bus": 150,
+        "train": 120,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 150,
+        "train": 90,
+        "plane": 50
+      }
+    }
+  },
+  "Amravati": {
+    "lat": 20.9333,
+    "lon": 77.7500,
+    "Wardha": {
+      "distance": 120,
+      "price": {
+        "bus": 150,
+        "train": 120,
+        "plane": 500
+      },
+      "duration": {
+        "bus": 150,
+        "train": 90,
+        "plane": 50
+      }
+    }
+  }
+}
