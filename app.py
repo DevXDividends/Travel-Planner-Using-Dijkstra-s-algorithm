@@ -1,4 +1,3 @@
-
 import streamlit as st
 import json
 import heapq
@@ -232,7 +231,7 @@ if st.session_state.get('show_results', False):
                         for rec in detail["layover_recommendations"]:
                             st.markdown(f"📍 {rec['name']}: {rec['description']}")
                 df = pd.DataFrame(legs)
-                st.dataframe(df,use_container_width=True)
+                st.dataframe(df,width='stretch')
                 if MAP_AVAILABLE:
                     m = create_map(result["path"])
                     if m:
