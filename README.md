@@ -100,6 +100,33 @@ streamlit run app.py
 > App opens at → `http://localhost:8501`
 
 ---
+### 5️⃣ Run with Docker
+
+Build the Docker image:
+
+```bash
+docker build -t travel-planner .
+```
+
+Run the container:
+
+```bash
+docker run -p 8501:8501 travel-planner
+```
+
+Open the application in your browser:
+
+```text
+http://localhost:8501
+```
+
+### Docker Notes
+
+- No Python installation required on the host machine.
+- No virtual environment setup required.
+- All dependencies are installed inside the container.
+- The application runs in an isolated and reproducible environment.
+
 
 ## 📍 How to Use
 
